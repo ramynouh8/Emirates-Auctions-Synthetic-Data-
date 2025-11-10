@@ -1,0 +1,13 @@
+
+Emirates Auctions Dataset — Short Summary
+
+This synthetic yet realistic dataset simulates auctions and buy‑now listings on the Emirates Auctions platform across major categories (Vehicles, Property, Plates, Jewellery & Watches and General Items) and across Emirates. Each row represents a listing that is active, closed or upcoming as at 8 Nov 2025.
+
+The file contains 26 columns organised into:
+1. **Core identifiers and descriptors** — auction ID, title, category, subcategory, emirate, listing type (auction or buy‑now), auction status (active/closed/upcoming), start and end timestamps, duration in days and the snapshot date.
+2. **Financial and engagement metrics** — starting price, final price, target price, achievement ratio (final price ÷ target price), counts of bids, unique bidders and page views.
+3. **Performance KPIs** — price uplift, profit margin proxy, engagement score, bids per bidder and views per bid.
+4. **Vehicle details** (if applicable) — make and vehicle type for car and bike listings.
+5. **Charity flag** — True/False indicator distinguishing charity auctions from commercial ones.
+
+Data values were generated within realistic ranges, normalising category names and ensuring durations between two and five days. Derived KPIs are calculated in the file. This dataset is ready for analysis in Power BI, R or Python and can be used to evaluate auction performance and user engagement across categories, emirates and listing types.

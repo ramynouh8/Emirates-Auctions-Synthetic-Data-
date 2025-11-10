@@ -1,0 +1,12 @@
+Hi Hiring Team,
+
+While preparing for the interview, I built an analytical project based on synthetic data that I generated myself, designed to simulate the structure and nature of Emirates Auction’s data.
+
+The project was developed in Python using tools such as Pandas, NumPy, Matplotlib, and Seaborn for data processing and visualization.
+
+The goal is to demonstrate my analytical thinking, data preparation, and visualization skills in a context relevant to your business.
+
+I’ve attached the project here in case you’d like to review it before the interview.
+
+Best regards,
+Ramy Nouh
